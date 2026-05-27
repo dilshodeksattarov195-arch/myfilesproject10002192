@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifycelete",
+        "uuid": 19988848,
+        "checksum": "dwuh7a"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
